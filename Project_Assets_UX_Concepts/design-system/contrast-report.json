@@ -1,0 +1,282 @@
+[
+ {
+  "theme": "light",
+  "fg": "text-primary",
+  "bg": "bg",
+  "fgHex": "#0F0F0F",
+  "bgHex": "#FFFFFF",
+  "ratio": 19.17,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "text-secondary",
+  "bg": "bg",
+  "fgHex": "#606060",
+  "bgHex": "#FFFFFF",
+  "ratio": 6.29,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "text-secondary",
+  "bg": "surface",
+  "fgHex": "#606060",
+  "bgHex": "#F2F2F2",
+  "ratio": 5.62,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "on-brand",
+  "bg": "brand",
+  "fgHex": "#FFFFFF",
+  "bgHex": "#CC0000",
+  "ratio": 5.89,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "link",
+  "bg": "bg",
+  "fgHex": "#065FD4",
+  "bgHex": "#FFFFFF",
+  "ratio": 5.84,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "focus-ring",
+  "bg": "bg",
+  "fgHex": "#065FD4",
+  "bgHex": "#FFFFFF",
+  "ratio": 5.84,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "success",
+  "bg": "bg",
+  "fgHex": "#0B6B37",
+  "bgHex": "#FFFFFF",
+  "ratio": 6.62,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "warning",
+  "bg": "bg",
+  "fgHex": "#8A5300",
+  "bgHex": "#FFFFFF",
+  "ratio": 6.33,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "error",
+  "bg": "bg",
+  "fgHex": "#B3261E",
+  "bgHex": "#FFFFFF",
+  "ratio": 6.54,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "light",
+  "fg": "control-border",
+  "bg": "bg",
+  "fgHex": "#767676",
+  "bgHex": "#FFFFFF",
+  "ratio": 4.54,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "text-primary",
+  "bg": "bg",
+  "fgHex": "#F1F1F1",
+  "bgHex": "#0F0F0F",
+  "ratio": 16.97,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "text-secondary",
+  "bg": "bg",
+  "fgHex": "#AAAAAA",
+  "bgHex": "#0F0F0F",
+  "ratio": 8.25,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "text-secondary",
+  "bg": "surface",
+  "fgHex": "#AAAAAA",
+  "bgHex": "#272727",
+  "ratio": 6.43,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "on-brand",
+  "bg": "brand",
+  "fgHex": "#0F0F0F",
+  "bgHex": "#FF4E45",
+  "ratio": 5.87,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "link",
+  "bg": "bg",
+  "fgHex": "#6EA8FE",
+  "bgHex": "#0F0F0F",
+  "ratio": 7.94,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "focus-ring",
+  "bg": "bg",
+  "fgHex": "#8AB4F8",
+  "bgHex": "#0F0F0F",
+  "ratio": 9.1,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "success",
+  "bg": "bg",
+  "fgHex": "#5DD28A",
+  "bgHex": "#0F0F0F",
+  "ratio": 10.09,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "warning",
+  "bg": "bg",
+  "fgHex": "#F2B056",
+  "bgHex": "#0F0F0F",
+  "ratio": 10.15,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "error",
+  "bg": "bg",
+  "fgHex": "#F2B8B5",
+  "bgHex": "#0F0F0F",
+  "ratio": 11.23,
+  "need": 4.5,
+  "ok": true
+ },
+ {
+  "theme": "dark",
+  "fg": "control-border",
+  "bg": "bg",
+  "fgHex": "#8A8A8A",
+  "bgHex": "#0F0F0F",
+  "ratio": 5.55,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "series-1",
+  "bg": "bg",
+  "fgHex": "#0072B2",
+  "bgHex": "#FFFFFF",
+  "ratio": 5.19,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "series-2",
+  "bg": "bg",
+  "fgHex": "#A86A00",
+  "bgHex": "#FFFFFF",
+  "ratio": 4.44,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "series-3",
+  "bg": "bg",
+  "fgHex": "#009E73",
+  "bgHex": "#FFFFFF",
+  "ratio": 3.42,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "series-4",
+  "bg": "bg",
+  "fgHex": "#D55E00",
+  "bgHex": "#FFFFFF",
+  "ratio": 3.87,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "series-5",
+  "bg": "bg",
+  "fgHex": "#6A4C93",
+  "bgHex": "#FFFFFF",
+  "ratio": 6.85,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "series-6",
+  "bg": "bg",
+  "fgHex": "#CC79A7",
+  "bgHex": "#FFFFFF",
+  "ratio": 3.06,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "comparison",
+  "bg": "bg",
+  "fgHex": "#8A8A8A",
+  "bgHex": "#FFFFFF",
+  "ratio": 3.45,
+  "need": 3,
+  "ok": true
+ },
+ {
+  "theme": "dataviz-on-white",
+  "fg": "$note",
+  "bg": "bg",
+  "fgHex": "Never encode meaning by color alone: pair with direct labels, markers or dash patterns.",
+  "bgHex": "#FFFFFF",
+  "ratio": 19.3,
+  "need": 3,
+  "ok": true
+ }
+]
